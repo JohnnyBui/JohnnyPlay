@@ -1,0 +1,8 @@
+{
+  "name": "johnnyPlay",
+  "app_id": "cfbedb76",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
